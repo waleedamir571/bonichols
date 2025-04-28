@@ -116,6 +116,12 @@ switch ($functions) {
         $url = $baseUrl . "blog/pro-bono-family-lawyer.php";
 
         break;
+        case "no-fault-vs-fault-based-divorce.php";
+        $title_name = "No-Fault vs. Fault-Based Divorce: Key Differences Explained";
+        $description = "Discover the key differences between no-fault and fault-based divorce, including legal grounds, benefits, and challenges to help you choose the right path";
+        $url = $baseUrl . "blog/pro-bono-family-lawyer.php";
+
+        break;
 
        
         
