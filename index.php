@@ -132,7 +132,7 @@
 
 		<section class="clients-section1 style-two">
 			<div class="auto-container">
-		
+
 				<div class="">
 					<div class="sec-title centered">
 						<h2>Our Accolades & Memberships</h2>
@@ -141,12 +141,12 @@
 						<!--Sponsors Carousel-->
 						<ul class="sponsors-carousel owl-carousel owl-theme">
 							<li class="slide-item">
-								<figure class="image-box"><img src="assets/images/clients/logo2.png" width="210" height="100"
-										alt="" class="client-img img-responsive"></figure>
+								<figure class="image-box"><img src="assets/images/clients/logo2.png" width="210"
+										height="100" alt="" class="client-img img-responsive"></figure>
 							</li>
 							<li class="slide-item">
-								<figure class="image-box"><img src="assets/images/clients/01.webp" width="210" height="100"
-										alt="" class="client-img img-responsive"></figure>
+								<figure class="image-box"><img src="assets/images/clients/01.webp" width="210"
+										height="100" alt="" class="client-img img-responsive"></figure>
 							</li>
 							<li class="slide-item">
 								<figure class="image-box"><img src="assets/images/clients/02.webp" alt="" width="210"
@@ -176,7 +176,7 @@
 								<figure class="image-box"><img src="assets/images/clients/05.webp" alt="" width="100"
 										height="100" class="client-img img-responsive"></figure>
 							</li>
-		
+
 							<li class="slide-item">
 								<figure class="image-box"><img src="assets/images/clients/07.webp" alt="" width="114"
 										height="100" class="client-img img-responsive"></figure>
@@ -190,8 +190,8 @@
 										height="100" class="client-img img-responsive"></figure>
 							</li>
 							<li class="slide-item">
-								<figure class="image-box"><img src="assets/images/clients/image001.jpg" alt="" width="210"
-										height="90" class="client-img img-responsive"></figure>
+								<figure class="image-box"><img src="assets/images/clients/image001.jpg" alt=""
+										width="210" height="90" class="client-img img-responsive"></figure>
 							</li>
 						</ul>
 					</div>
@@ -219,6 +219,55 @@
 								<div class="single-item-carousel owl-carousel owl-theme">
 
 									<!-- Testimonial Block Two -->
+									<div class="testimonial-block-two">
+										<div class="inner-box">
+											<div class="upper-box">
+												<div class="author-image">
+												</div>
+												<div class="title">Thank you, Bo</div>
+												<h6>Hired Attorney</h6>
+												<div class="rating">
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+												</div>
+											</div>
+											<div class="quote-icon flaticon-right-quote"></div>
+											<div class="text">Bo was a friend and confidante throughout the process. He
+												was always very straightforward and did not sugar coat things, which I
+												always appreciated. His preparedness and attention to detail resulted in
+												as positive of an outcome as I could have expected, given the
+												circumstances. He was kind, empathetic and responsive from start to
+												finish. I'd recommend him to anyone going through a divorce.</div>
+										</div>
+									</div>
+									<div class="testimonial-block-two">
+										<div class="inner-box">
+											<div class="upper-box">
+												<div class="author-image">
+												</div>
+												<div class="title">Best Divorce Attorney</div>
+												<h6>Hired Attorney</h6>
+												<div class="rating">
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+													<span class="fa fa-star"></span>
+												</div>
+											</div>
+											<div class="quote-icon flaticon-right-quote"></div>
+											<div class="text">I'm incredibly grateful to Bo Nichols for making a
+												difficult time so much easier. From start to finish, they handled my
+												divorce with professionalism, compassion, and efficiency. Everything was
+												explained clearly, and the entire process went smoothly thanks to their
+												expertise. I truly felt supported and well-represented every step of the
+												way. I highly recommend Bo Nichols to anyone in need of a skilled and
+												trustworthy divorce attorney.</div>
+										</div>
+									</div>
 									<div class="testimonial-block-two">
 										<div class="inner-box">
 											<div class="upper-box">
@@ -331,7 +380,7 @@
 												</div>
 											</div>
 											<div class="quote-icon flaticon-right-quote"></div>
-											<div class="text">Bo was extremely thorough in his handling of my matter. He	
+											<div class="text">Bo was extremely thorough in his handling of my matter. He
 												clearly outlined the information he needed regarding my suit and
 												explained why it was important. He planned for all contingencies to
 												ensure the best possible outcome in resolving the matter. His
@@ -904,7 +953,7 @@
 			</div>
 		</section>
 
-	
+
 
 		<section class="benefits-section">
 			<div class="side-image"></div>
@@ -989,4 +1038,3 @@
 	<!--                </div>-->
 	<!--            </div>-->
 	<!--        </div>-->
-

@@ -9,19 +9,20 @@
                 <!--Sponsors Carousel-->
                 <ul class="sponsors-carousel owl-carousel owl-theme">
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/logo2.png" width="210" height="100"
+                        <figure class="image-box"><img src="assets/images/about/a1.jpg" width="210" height="100"
                                 alt="" class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/01.webp" width="210" height="100"
+                        <figure class="image-box"><img src="assets/images/about/a2.jpg" width="210" height="100"
                                 alt="" class="client-img img-responsive"></figure>
                     </li>
+                   
                     <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/02.webp" alt="" width="210"
+                        <figure class="image-box"><img src="assets/images/about/a4.jpg" alt="" width="210"
                                 height="100" class="client-img img-responsive"></figure>
                     </li>
-                    <li class="slide-item">
-                        <figure class="image-box"><img src="assets/images/clients/03.webp" alt="" width="210"
+                     <li class="slide-item">
+                        <figure class="image-box"><img src="assets/images/about/a3.jpg" alt="" width="210"
                                 height="100" class="client-img img-responsive"></figure>
                     </li>
                     <li class="slide-item">

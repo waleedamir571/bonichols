@@ -359,7 +359,7 @@
 
             <!-- Modal body -->
             <div class="modal-body">
-                <img src="assets/images/Bestlawyer.jpg" alt="">
+                <img src="assets/images/popup1.jpg" alt="">
             </div>
 
             <!-- Modal footer -->

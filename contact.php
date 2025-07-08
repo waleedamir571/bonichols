@@ -86,7 +86,7 @@
 
 											<!-- Default Form -->
 											<form method="post"
-												action="https://expert-themes.com/html/gym/contact.html">
+												action="">
 												<div class="row clearfix">
 
 													<div class="col-lg-6 col-md-6 col-sm-12 form-group black-border">
